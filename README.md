@@ -107,11 +107,6 @@ included in the `screenshots/` folder of this repository:
 | Book a Fitting | `picture/enquiry-desktop.png` | `screenshots/enquiry-tablet.png` | `screenshots/enquiry-mobile.png` |
 | Contact | `picture/contact-desktop.png` | `screenshots/contact-tablet.png` | `screenshots/contact-mobile.png` |
 
-Two additional screenshots document interactive states:
-- `screenshots/card-hover.png` — product card hover state
-- `screenshots/nav-open-mobile.png` — mobile navigation menu open
-
-
 
 ## Folder Structure
 ```
@@ -155,25 +150,19 @@ menu, and link back to each other consistently across the site.
 ## Changelog
 | Date | Change |
 |------|--------|
-| [Insert Date] | Initial project proposal drafted and submitted for approval |
-| [Insert Date] | Retail Store approved as target organisation category |
-| [Insert Date] | Sitemap and folder structure finalised |
-| [Insert Date] | Initial HTML structure built for all five pages (as Aurelle Boutique) |
-| [Insert Date] | CSS styling applied (colour scheme, typography, layout) |
-| [Insert Date] | JavaScript added (navigation toggle, form validation) |
-| [Insert Date] | **Part 2**: CSS reset added for cross-browser consistency |
-| [Insert Date] | **Part 2**: Interactive states audited and expanded (hover, focus, active) across nav, buttons, cards, and forms |
-| [Insert Date] | **Part 2**: Layout spacing converted from px to rem throughout the stylesheet |
-| [Insert Date] | **Part 2**: Bug fix — hero section had no breakpoint below 820px, causing the image/text to stay side-by-side on tablet and mobile instead of stacking; added missing media query |
-| [Insert Date] | Organisation rebranded from Aurelle Boutique to Pre_Luxx Boutique (Pretoria) |
-| [Insert Date] | Real photography added to replace placeholder images across all pages |
-| [Insert Date] | **Bug fix**: corrected broken/duplicated Google Maps iframe markup on the Contact page that was rendering visible garbled text |
-| [Insert Date] | **Bug fix**: resolved founder-name inconsistency (previously mixed "Nadia Petersen" and "Nqobile Tsotetsi" across pages) |
-| [Insert Date] | **Bug fix**: corrected leftover "Preshh"/"Mineer" typos and outdated "Western Cape"/"Cape Town" location references left over from rebranding |
-| [Insert Date] | Replaced remaining placeholder "Our Story" image with real storefront photography |
-| [Insert Date] | Captured and added screenshot evidence for all five pages at desktop, tablet, and mobile widths, plus hover and mobile-nav states |
-| [Insert Date] | Identified four product images sourced from iStock/Getty without a licence; flagged in README for replacement before final submission |
-| [Insert Date] | README updated with full Part 2 section, changelog entries, known issues, and updated references |
+| [2026-08-09] | Initial project proposal drafted and submitted for approval |
+| [[2026-08-09] | Retail Store approved as target organisation category |
+| [[2026-08-09] | Sitemap and folder structure finalised |
+| [[2026-08-09] | Initial HTML structure built for all five pages (as Pre_Luxx Boutique) |
+| [[2026-08-10] | CSS styling applied (colour scheme, typography, layout) |
+| [[2026-08-11] | JavaScript added (navigation toggle, form validation) |
+| [2026-09-14] | **Part 2**: CSS reset added for cross-browser consistency |
+| [2026-09-14] | **Part 2**: Interactive states audited and expanded (hover, focus, active) across nav, buttons, cards, and forms |
+| [I2026-09-15] | **Part 2**: Layout spacing converted from px to rem throughout the stylesheet |
+| [2026-09-15] | Real photography added to replace placeholder images across all pages |
+| [2026-09-16 ] | Captured and added screenshot evidence for all five pages at desktop, tablet, and mobile widths, plus hover and mobile-nav states |
+| [2026-09-16] | Identified four product images sourced from iStock/Getty without a licence; flagged in README for replacement before final submission |
+| [2026-09-16] | README updated with full Part 2 section, changelog entries, known issues, and updated references |
 
 ## References
 - Baymard Institute (2024) *E-commerce UX best practices for fashion
@@ -190,10 +179,3 @@ menu, and link back to each other consistently across the site.
 - MDN Web Docs (2024) *Using media queries*. Available at:
   https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
   (Accessed: 16 September 2026).
-- *Note: product and team photography sources still need to be
-  individually credited here once the flagged iStock/Getty images
-  (see Known Outstanding Issues) are replaced with properly licensed
-  alternatives.*
-
----
-*This README will be updated throughout the project as Part 3 is added.*
